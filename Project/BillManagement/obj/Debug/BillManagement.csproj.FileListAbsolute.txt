@@ -1,0 +1,39 @@
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\BillManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\BillManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.csprojAssemblyReference.cache
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\CategoryManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\ProductManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\SellerManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\CategoryManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\SellerManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.csproj.CopyComplete
+E:\Project\BillManagement\bin\Debug\BillManagement.dll
+E:\Project\BillManagement\bin\Debug\BillManagement.pdb
+E:\Project\BillManagement\bin\Debug\CategoryManagement.dll
+E:\Project\BillManagement\bin\Debug\ProductManagement.dll
+E:\Project\BillManagement\bin\Debug\SellerManagement.dll
+E:\Project\BillManagement\bin\Debug\CategoryManagement.pdb
+E:\Project\BillManagement\bin\Debug\ProductManagement.pdb
+E:\Project\BillManagement\bin\Debug\SellerManagement.pdb
+E:\Project\BillManagement\obj\Debug\BillManagement.csproj.AssemblyReference.cache
+E:\Project\BillManagement\obj\Debug\BillManagement.csproj.CoreCompileInputs.cache
+E:\Project\BillManagement\obj\Debug\BillManagement.csproj.CopyComplete
+E:\Project\BillManagement\obj\Debug\BillManagement.dll
+E:\Project\BillManagement\obj\Debug\BillManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\BillManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\BillManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\CategoryManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\ProductManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\SellerManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\CategoryManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\ProductManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\bin\Debug\SellerManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\obj\Debug\BillManagement.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\obj\Debug\BillManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\obj\Debug\BillManagement.csproj.CopyComplete
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\obj\Debug\BillManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\BillManagement\obj\Debug\BillManagement.pdb

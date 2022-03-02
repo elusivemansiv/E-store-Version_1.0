@@ -1,0 +1,110 @@
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.Splash.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.ProductForm.resources
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\Guna.UI.dll
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.CATEGORYFORM.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.SellerForm.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.SellingForm.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.BillForm.resources
+C:\Users\Hridoy\source\repos\Project\Project\obj\Debug\Project.CreateAccount.resources
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\SellerManagement.dll
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\SellerManagement.pdb
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\CategoryManagement.dll
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\CategoryManagement.pdb
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\BillManagement.dll
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\ProductManagement.dll
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\BillManagement.pdb
+C:\Users\Hridoy\source\repos\Project\Project\bin\Debug\ProductManagement.pdb
+E:\Project\Project\bin\Debug\BillManagement.dll
+E:\Project\Project\bin\Debug\CategoryManagement.dll
+E:\Project\Project\bin\Debug\ProductManagement.dll
+E:\Project\Project\bin\Debug\SellerManagement.dll
+E:\Project\Project\bin\Debug\BillManagement.pdb
+E:\Project\Project\bin\Debug\CategoryManagement.pdb
+E:\Project\Project\bin\Debug\ProductManagement.pdb
+E:\Project\Project\bin\Debug\SellerManagement.pdb
+E:\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Project\Project\obj\Debug\Project.BillForm.resources
+E:\Project\Project\obj\Debug\Project.CATEGORYFORM.resources
+E:\Project\Project\obj\Debug\Project.CreateAccount.resources
+E:\Project\Project\obj\Debug\Project.Form1.resources
+E:\Project\Project\obj\Debug\Project.ProductForm.resources
+E:\Project\Project\obj\Debug\Project.SellerForm.resources
+E:\Project\Project\obj\Debug\Project.SellingForm.resources
+E:\Project\Project\obj\Debug\Project.Splash.resources
+E:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\Project\Project\bin\Debug\Boondhu E-store.exe.config
+E:\Project\Project\bin\Debug\Boondhu E-store.exe.manifest
+E:\Project\Project\bin\Debug\Boondhu E-store.application
+E:\Project\Project\bin\Debug\Boondhu E-store.exe
+E:\Project\Project\bin\Debug\Boondhu E-store.pdb
+E:\Project\Project\obj\Debug\Boondhu E-store.exe.manifest
+E:\Project\Project\obj\Debug\Boondhu E-store.application
+E:\Project\Project\obj\Debug\Boondhu E-store.exe
+E:\Project\Project\obj\Debug\Boondhu E-store.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Boondhu E-store.exe.config
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Boondhu E-store.exe.manifest
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Boondhu E-store.application
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Boondhu E-store.exe
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Boondhu E-store.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\BillManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\CategoryManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\ProductManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\SellerManagement.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\BillManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\CategoryManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\ProductManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\SellerManagement.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.BillForm.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.CATEGORYFORM.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.CreateAccount.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.ProductForm.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.SellerForm.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.SellingForm.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.Splash.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Boondhu E-store.exe.manifest
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Boondhu E-store.application
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Boondhu E-store.exe
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\obj\Debug\Boondhu E-store.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Boondhu E-store Version_1.0\Project\Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

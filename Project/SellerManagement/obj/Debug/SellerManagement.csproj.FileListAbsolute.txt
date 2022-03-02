@@ -1,0 +1,12 @@
+C:\Users\Hridoy\source\repos\Project\SellerManagement\bin\Debug\SellerManagement.dll
+C:\Users\Hridoy\source\repos\Project\SellerManagement\bin\Debug\SellerManagement.pdb
+C:\Users\Hridoy\source\repos\Project\SellerManagement\obj\Debug\SellerManagement.csprojAssemblyReference.cache
+C:\Users\Hridoy\source\repos\Project\SellerManagement\obj\Debug\SellerManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hridoy\source\repos\Project\SellerManagement\obj\Debug\SellerManagement.dll
+C:\Users\Hridoy\source\repos\Project\SellerManagement\obj\Debug\SellerManagement.pdb
+E:\Project\SellerManagement\bin\Debug\SellerManagement.dll
+E:\Project\SellerManagement\bin\Debug\SellerManagement.pdb
+E:\Project\SellerManagement\obj\Debug\SellerManagement.csproj.AssemblyReference.cache
+E:\Project\SellerManagement\obj\Debug\SellerManagement.csproj.CoreCompileInputs.cache
+E:\Project\SellerManagement\obj\Debug\SellerManagement.dll
+E:\Project\SellerManagement\obj\Debug\SellerManagement.pdb
